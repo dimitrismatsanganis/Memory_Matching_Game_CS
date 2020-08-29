@@ -1,7 +1,7 @@
 NAME : FDSF  TRIES : 23
 NAME : PABL  TRIES : 17
 NAME : FASAF  TRIES : 13
-NAME : pavlissss  TRIES : 19
+NAME : pavlos  TRIES : 19
 NAME : giwrgos  TRIES : 15
 NAME : kkk  TRIES : 16
 NAME : kkk  TRIES : 14
